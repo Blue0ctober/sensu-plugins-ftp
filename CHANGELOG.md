@@ -5,6 +5,10 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 
 ## [Unreleased]
 
+## [1.1.1] - 20017-08-24
+### Bug Fix
+- check-ftp.rb: Changed timeout to Timeout.timout (@blue0ctober)
+
 ## [1.1.0] - 2017-05-30
 ### Added
 - check-ftp.rb: add support for implicit FTPS. (@swibowo)
